@@ -54,6 +54,7 @@ Password found: 11EddardStark199726
 - Bruge en ZIP-cracking pakke direkte i R i stedet for at køre systemkommandoer.
 - Optimere brute-force processen ved at prioritere de mest sandsynlige passwords.
 - Tilføje understøttelse for andre ZIP-krypteringsformater.
+- bruge John The Ripper i stedet for zip-bruteforce scriptet.
 
 ---
 ### 🚀 **Nu kan du brute-force ZIP-filer med R og Game of Thrones!** 🏰
